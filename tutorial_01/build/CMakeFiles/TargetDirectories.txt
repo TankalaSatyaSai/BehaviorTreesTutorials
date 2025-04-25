@@ -1,0 +1,3 @@
+/data/bt_tutorials/tutorial_01/build/CMakeFiles/bt_simple_pick.dir
+/data/bt_tutorials/tutorial_01/build/CMakeFiles/edit_cache.dir
+/data/bt_tutorials/tutorial_01/build/CMakeFiles/rebuild_cache.dir
